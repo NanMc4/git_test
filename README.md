@@ -1,3 +1,1 @@
-# git_test
-"Hello Odin!"
-"Excellent choice for web developers."
+A simple games coded in html and python for practicing.
