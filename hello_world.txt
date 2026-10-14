@@ -300,7 +300,7 @@
         function newGame() {
             initGame();
         }
-
+//end of the code 
         // Initialize on load
         initGame();
     </script>
